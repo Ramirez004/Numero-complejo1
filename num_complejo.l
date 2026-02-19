@@ -1,7 +1,9 @@
 %{
 #include <stdio.h>
 #include <stdlib.h>
-/* DEFINICIONES  */
+%}
+
+/* ====== DEFINICIONES ====== */
 
 /* Real con decimal y notación científica */
 REAL    [+-]?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))([eE][+-]?[0-9]+)?
